@@ -30,7 +30,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -60,22 +59,6 @@
 - 📂 **Repository:** [Aabiishek/Employee-Salary-Prediction](https://github.com/Aabiishek/Employee-Salary-Prediction)  
 - **Overview:** Developed a machine learning model to predict employee salaries based on industry factors. Focused on extensive data preprocessing, feature engineering, and model evaluation to ensure high accuracy.
 
-### 🎬 Cinema Ticket Booking System
-<p>
-  <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-239120?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-239120?style=flat-square&logo=javascript&logoColor=white" alt="JS"/>
-</p>
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aabiishek&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Aabiishek&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌱 Currently Learning  
 
